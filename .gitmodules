@@ -78,6 +78,10 @@
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack
 	shallow = true
+[submodule "RcppSimdJson"]
+	path = RcppSimdJson
+	url = https://github.com/eddelbuettel/rcppsimdjson
+	shallow = true
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams

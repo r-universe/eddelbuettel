@@ -2,119 +2,149 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
 	shallow = true
+	branch = HEAD
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/eddelbuettel/asioheaders
 	shallow = true
+	branch = HEAD
 [submodule "BH"]
 	path = BH
 	url = https://github.com/eddelbuettel/bh
 	shallow = true
+	branch = HEAD
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
 	shallow = true
+	branch = HEAD
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest
 	shallow = true
+	branch = HEAD
 [submodule "drat"]
 	path = drat
 	url = https://github.com/eddelbuettel/drat
 	shallow = true
+	branch = HEAD
 [submodule "gaussfacts"]
 	path = gaussfacts
 	url = https://github.com/eddelbuettel/gaussfacts
 	shallow = true
+	branch = HEAD
 [submodule "gettz"]
 	path = gettz
 	url = https://github.com/eddelbuettel/gettz
 	shallow = true
+	branch = HEAD
 [submodule "inline"]
 	path = inline
 	url = https://github.com/eddelbuettel/inline
 	shallow = true
+	branch = HEAD
 [submodule "linl"]
 	path = linl
 	url = https://github.com/eddelbuettel/linl
 	shallow = true
+	branch = HEAD
 [submodule "littler"]
 	path = littler
 	url = https://github.com/eddelbuettel/littler
 	shallow = true
+	branch = HEAD
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp
 	shallow = true
+	branch = HEAD
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/eddelbuettel/rcppcctz
 	shallow = true
+	branch = HEAD
 [submodule "RcppClassic"]
 	path = RcppClassic
 	url = https://github.com/eddelbuettel/rcppclassic
 	shallow = true
+	branch = HEAD
 [submodule "RcppCNPy"]
 	path = RcppCNPy
 	url = https://github.com/eddelbuettel/rcppcnpy
 	shallow = true
+	branch = HEAD
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
 	shallow = true
+	branch = HEAD
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples
 	shallow = true
+	branch = HEAD
 [submodule "RcppGetconf"]
 	path = RcppGetconf
 	url = https://github.com/eddelbuettel/rcppgetconf
 	shallow = true
+	branch = HEAD
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack
 	shallow = true
+	branch = HEAD
 [submodule "RcppSimdJson"]
 	path = RcppSimdJson
 	url = https://github.com/eddelbuettel/rcppsimdjson
 	shallow = true
+	branch = HEAD
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams
 	shallow = true
+	branch = HEAD
 [submodule "RcppTOML"]
 	path = RcppTOML
 	url = https://github.com/eddelbuettel/rcpptoml
 	shallow = true
+	branch = HEAD
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
+	branch = HEAD
 [submodule "rfoaas"]
 	path = rfoaas
 	url = https://github.com/eddelbuettel/rfoaas
 	shallow = true
+	branch = HEAD
 [submodule "RInside"]
 	path = RInside
 	url = https://github.com/eddelbuettel/rinside
 	shallow = true
+	branch = HEAD
 [submodule "RProtoBuf"]
 	path = RProtoBuf
 	url = https://github.com/eddelbuettel/rprotobuf
 	shallow = true
+	branch = HEAD
 [submodule "RQuantLib"]
 	path = RQuantLib
 	url = https://github.com/eddelbuettel/rquantlib
 	shallow = true
+	branch = HEAD
 [submodule "RVowpalWabbit"]
 	path = RVowpalWabbit
 	url = https://github.com/eddelbuettel/rvowpalwabbit
 	shallow = true
+	branch = HEAD
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
 	shallow = true
+	branch = HEAD

@@ -71,6 +71,10 @@
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples
 	shallow = true
+[submodule "RcppFastFloat"]
+	path = RcppFastFloat
+	url = https://github.com/eddelbuettel/rcppfastfloat
+	shallow = true
 [submodule "RcppGetconf"]
 	path = RcppGetconf
 	url = https://github.com/eddelbuettel/rcppgetconf

@@ -19,6 +19,10 @@
 	path = binb
 	url = https://github.com/eddelbuettel/binb
 	shallow = true
+[submodule "dang"]
+	path = dang
+	url = https://github.com/eddelbuettel/dang
+	shallow = true
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest

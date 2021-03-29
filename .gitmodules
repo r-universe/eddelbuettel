@@ -91,6 +91,10 @@
 	path = RcppSimdJson
 	url = https://github.com/eddelbuettel/rcppsimdjson
 	shallow = true
+[submodule "RcppSpdlog"]
+	path = RcppSpdlog
+	url = https://github.com/eddelbuettel/rcppspdlog
+	shallow = true
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams

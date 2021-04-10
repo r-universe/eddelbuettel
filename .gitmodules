@@ -7,127 +7,159 @@
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
 	shallow = true
+	registered = true
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/eddelbuettel/asioheaders
 	shallow = true
+	registered = true
 [submodule "BH"]
 	path = BH
 	url = https://github.com/eddelbuettel/bh
 	shallow = true
+	registered = true
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
 	shallow = true
+	registered = true
 [submodule "dang"]
 	path = dang
 	url = https://github.com/eddelbuettel/dang
 	shallow = true
+	registered = true
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest
 	shallow = true
+	registered = true
 [submodule "drat"]
 	path = drat
 	url = https://github.com/eddelbuettel/drat
 	shallow = true
+	registered = true
 [submodule "gaussfacts"]
 	path = gaussfacts
 	url = https://github.com/eddelbuettel/gaussfacts
 	shallow = true
+	registered = true
 [submodule "gettz"]
 	path = gettz
 	url = https://github.com/eddelbuettel/gettz
 	shallow = true
+	registered = true
 [submodule "inline"]
 	path = inline
 	url = https://github.com/eddelbuettel/inline
 	shallow = true
+	registered = true
 [submodule "linl"]
 	path = linl
 	url = https://github.com/eddelbuettel/linl
 	shallow = true
+	registered = true
 [submodule "littler"]
 	path = littler
 	url = https://github.com/eddelbuettel/littler
 	shallow = true
+	registered = true
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp
 	shallow = true
+	registered = true
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/eddelbuettel/rcppcctz
 	shallow = true
+	registered = true
 [submodule "RcppClassic"]
 	path = RcppClassic
 	url = https://github.com/eddelbuettel/rcppclassic
 	shallow = true
+	registered = true
 [submodule "RcppCNPy"]
 	path = RcppCNPy
 	url = https://github.com/eddelbuettel/rcppcnpy
 	shallow = true
+	registered = true
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
 	shallow = true
+	registered = true
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples
 	shallow = true
+	registered = true
 [submodule "RcppFastFloat"]
 	path = RcppFastFloat
 	url = https://github.com/eddelbuettel/rcppfastfloat
 	shallow = true
+	registered = true
 [submodule "RcppGetconf"]
 	path = RcppGetconf
 	url = https://github.com/eddelbuettel/rcppgetconf
 	shallow = true
+	registered = true
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack
 	shallow = true
+	registered = true
 [submodule "RcppSimdJson"]
 	path = RcppSimdJson
 	url = https://github.com/eddelbuettel/rcppsimdjson
 	shallow = true
+	registered = true
 [submodule "RcppSpdlog"]
 	path = RcppSpdlog
 	url = https://github.com/eddelbuettel/rcppspdlog
 	shallow = true
+	registered = true
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams
 	shallow = true
+	registered = true
 [submodule "RcppTOML"]
 	path = RcppTOML
 	url = https://github.com/eddelbuettel/rcpptoml
 	shallow = true
+	registered = true
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
+	registered = true
 [submodule "rfoaas"]
 	path = rfoaas
 	url = https://github.com/eddelbuettel/rfoaas
 	shallow = true
+	registered = true
 [submodule "RInside"]
 	path = RInside
 	url = https://github.com/eddelbuettel/rinside
 	shallow = true
+	registered = true
 [submodule "RProtoBuf"]
 	path = RProtoBuf
 	url = https://github.com/eddelbuettel/rprotobuf
 	shallow = true
+	registered = true
 [submodule "RQuantLib"]
 	path = RQuantLib
 	url = https://github.com/eddelbuettel/rquantlib
 	shallow = true
+	registered = true
 [submodule "RVowpalWabbit"]
 	path = RVowpalWabbit
 	url = https://github.com/eddelbuettel/rvowpalwabbit
 	shallow = true
+	registered = true
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
 	shallow = true
+	registered = true

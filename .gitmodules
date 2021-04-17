@@ -68,6 +68,11 @@
 	url = https://github.com/eddelbuettel/pinp
 	shallow = true
 	registered = true
+[submodule "RcppAPT"]
+	path = RcppAPT
+	url = https://github.com/eddelbuettel/rcppapt
+	shallow = true
+	registered = true
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/eddelbuettel/rcppcctz

@@ -205,7 +205,7 @@
 	registered = true
 [submodule "corels"]
 	path = corels
-	url = https://github.com/corels/corels
+	url = https://github.com/corels/rcppcorels
 	shallow = true
 	registered = true
 [submodule "dang"]

@@ -323,3 +323,8 @@
 	url = https://github.com/x13org/x13binary
 	shallow = true
 	registered = true
+[submodule "RcppAsioExample"]
+	path = RcppAsioExample
+	url = https://github.com/eddelbuettel/rcppasioexample
+	shallow = true
+	registered = true

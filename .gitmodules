@@ -88,6 +88,11 @@
 	url = https://github.com/eddelbuettel/rcppbdt
 	shallow = true
 	registered = true
+[submodule "RcppBenchmark"]
+	path = RcppBenchmark
+	url = https://github.com/eddelbuettel/rcppbenchmark
+	shallow = true
+	registered = true
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/eddelbuettel/rcppcctz

@@ -148,6 +148,11 @@
 	url = https://github.com/eddelbuettel/rcppgetconf
 	shallow = true
 	registered = true
+[submodule "RcppHyperDual"]
+	path = RcppHyperDual
+	url = https://github.com/eddelbuettel/rcpphyperdual
+	shallow = true
+	registered = true
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack

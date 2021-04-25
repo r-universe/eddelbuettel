@@ -158,6 +158,11 @@
 	url = https://github.com/eddelbuettel/rcpphyperdual
 	shallow = true
 	registered = true
+[submodule "RcppIconvExample"]
+	path = RcppIconvExample
+	url = https://github.com/eddelbuettel/rcppiconvexample
+	shallow = true
+	registered = true
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack

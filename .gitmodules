@@ -163,6 +163,11 @@
 	url = https://github.com/eddelbuettel/rcppiconvexample
 	shallow = true
 	registered = true
+[submodule "RcppKalman"]
+	path = RcppKalman
+	url = https://github.com/eddelbuettel/rcppkalman
+	shallow = true
+	registered = true
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack

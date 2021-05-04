@@ -173,6 +173,11 @@
 	url = https://github.com/eddelbuettel/rcppl1tf
 	shallow = true
 	registered = true
+[submodule "RcppLongLong"]
+	path = RcppLongLong
+	url = https://github.com/eddelbuettel/rcpplonglong
+	shallow = true
+	registered = true
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack
@@ -216,6 +221,11 @@
 [submodule "RcppTOML"]
 	path = RcppTOML
 	url = https://github.com/eddelbuettel/rcpptoml
+	shallow = true
+	registered = true
+[submodule "RcppUTS"]
+	path = RcppUTS
+	url = https://github.com/eddelbuettel/rcpputs
 	shallow = true
 	registered = true
 [submodule "RcppXts"]

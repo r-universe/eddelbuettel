@@ -243,6 +243,11 @@
 	url = https://github.com/eddelbuettel/anytime
 	shallow = true
 	registered = true
+[submodule "bbb"]
+	path = bbb
+	url = https://github.com/eddelbuettel/bbb
+	shallow = true
+	registered = true
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb

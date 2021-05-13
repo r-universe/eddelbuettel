@@ -8,442 +8,368 @@
 	url = https://github.com/eddelbuettel/asioheaders
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "BH"]
 	path = BH
 	url = https://github.com/eddelbuettel/bh
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RApiDatetime"]
 	path = RApiDatetime
 	url = https://github.com/eddelbuettel/rapidatetime
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RApiSerialize"]
 	path = RApiSerialize
 	url = https://github.com/eddelbuettel/rapiserialize
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RDieHarder"]
 	path = RDieHarder
 	url = https://github.com/eddelbuettel/rdieharder
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RInside"]
 	path = RInside
 	url = https://github.com/eddelbuettel/rinside
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RProtoBuf"]
 	path = RProtoBuf
 	url = https://github.com/eddelbuettel/rprotobuf
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RPushbullet"]
 	path = RPushbullet
 	url = https://github.com/eddelbuettel/rpushbullet
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RQuantLib"]
 	path = RQuantLib
 	url = https://github.com/eddelbuettel/rquantlib
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RVowpalWabbit"]
 	path = RVowpalWabbit
 	url = https://github.com/eddelbuettel/rvowpalwabbit
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "Rblpapi"]
 	path = Rblpapi
 	url = https://github.com/Rblp/Rblpapi
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/RcppCore/Rcpp
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/eddelbuettel/rcppapt
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppAnnoy"]
 	path = RcppAnnoy
 	url = https://github.com/eddelbuettel/rcppannoy
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppArmadillo"]
 	path = RcppArmadillo
 	url = https://github.com/RcppCore/RcppArmadillo
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppAsioExample"]
 	path = RcppAsioExample
 	url = https://github.com/eddelbuettel/rcppasioexample
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppBDT"]
 	path = RcppBDT
 	url = https://github.com/eddelbuettel/rcppbdt
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppBenchmark"]
 	path = RcppBenchmark
 	url = https://github.com/eddelbuettel/rcppbenchmark
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppCCTZ"]
 	path = RcppCCTZ
 	url = https://github.com/eddelbuettel/rcppcctz
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppCNPy"]
 	path = RcppCNPy
 	url = https://github.com/eddelbuettel/rcppcnpy
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppClassic"]
 	path = RcppClassic
 	url = https://github.com/eddelbuettel/rcppclassic
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppClassicExamples"]
 	path = RcppClassicExamples
 	url = https://github.com/eddelbuettel/rcppclassicexamples
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppDE"]
 	path = RcppDE
 	url = https://github.com/eddelbuettel/rcppde
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/RcppCore/RcppEigen
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppFastFloat"]
 	path = RcppFastFloat
 	url = https://github.com/eddelbuettel/rcppfastfloat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppGSL"]
 	path = RcppGSL
 	url = https://github.com/eddelbuettel/rcppgsl
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppGeiger"]
 	path = RcppGeiger
 	url = https://github.com/eddelbuettel/rcppgeiger
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppGetconf"]
 	path = RcppGetconf
 	url = https://github.com/eddelbuettel/rcppgetconf
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppHyperDual"]
 	path = RcppHyperDual
 	url = https://github.com/eddelbuettel/rcpphyperdual
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppIconvExample"]
 	path = RcppIconvExample
 	url = https://github.com/eddelbuettel/rcppiconvexample
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppKalman"]
 	path = RcppKalman
 	url = https://github.com/eddelbuettel/rcppkalman
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppL1TF"]
 	path = RcppL1TF
 	url = https://github.com/eddelbuettel/rcppl1tf
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppLongLong"]
 	path = RcppLongLong
 	url = https://github.com/eddelbuettel/rcpplonglong
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppNLoptExample"]
 	path = RcppNLoptExample
 	url = https://github.com/eddelbuettel/rcppnloptexample
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppQuantuccia"]
 	path = RcppQuantuccia
 	url = https://github.com/eddelbuettel/rcppquantuccia
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppRedis"]
 	path = RcppRedis
 	url = https://github.com/eddelbuettel/rcppredis
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppSMC"]
 	path = RcppSMC
 	url = https://github.com/eddelbuettel/rcppsmc
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppSimdJson"]
 	path = RcppSimdJson
 	url = https://github.com/eddelbuettel/rcppsimdjson
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppSpdlog"]
 	path = RcppSpdlog
 	url = https://github.com/eddelbuettel/rcppspdlog
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppTOML"]
 	path = RcppTOML
 	url = https://github.com/eddelbuettel/rcpptoml
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "RcppUTS"]
 	path = RcppUTS
 	url = https://github.com/eddelbuettel/rcpputs
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppXts"]
 	path = RcppXts
 	url = https://github.com/eddelbuettel/rcppxts
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "RcppZiggurat"]
 	path = RcppZiggurat
 	url = https://github.com/eddelbuettel/rcppziggurat
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "bbb"]
 	path = bbb
 	url = https://github.com/eddelbuettel/bbb
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "corels"]
 	path = corels
 	url = https://github.com/corels/rcppcorels
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "dang"]
 	path = dang
 	url = https://github.com/eddelbuettel/dang
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "drat"]
 	path = drat
 	url = https://github.com/eddelbuettel/drat
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gaussfacts"]
 	path = gaussfacts
 	url = https://github.com/eddelbuettel/gaussfacts
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gcbd"]
 	path = gcbd
 	url = https://github.com/eddelbuettel/gcbd
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "gettz"]
 	path = gettz
 	url = https://github.com/eddelbuettel/gettz
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "gunsales"]
 	path = gunsales
 	url = https://github.com/NYTimes/gunsales
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "inline"]
 	path = inline
 	url = https://github.com/eddelbuettel/inline
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "linl"]
 	path = linl
 	url = https://github.com/eddelbuettel/linl
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "littler"]
 	path = littler
 	url = https://github.com/eddelbuettel/littler
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "pkgKitten"]
 	path = pkgKitten
 	url = https://github.com/eddelbuettel/pkgkitten
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "prrd"]
 	path = prrd
 	url = https://github.com/eddelbuettel/prrd
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "random"]
 	path = random
 	url = https://github.com/eddelbuettel/random
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "rfoaas"]
 	path = rfoaas
 	url = https://github.com/eddelbuettel/rfoaas
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "rmsfact"]
 	path = rmsfact
 	url = https://github.com/eddelbuettel/rmsfact
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "sanitizers"]
 	path = sanitizers
 	url = https://github.com/eddelbuettel/sanitizers
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "td"]
 	path = td
 	url = https://github.com/eddelbuettel/td
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ttdo"]
 	path = ttdo
 	url = https://github.com/eddelbuettel/ttdo
 	shallow = true
 	registered = true
-	oncran = false
 [submodule "x13binary"]
 	path = x13binary
 	url = https://github.com/x13org/x13binary
 	shallow = true
 	registered = true
-	oncran = true

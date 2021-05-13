@@ -1,0 +1,298 @@
+[
+  {
+    "package": "AsioHeaders",
+    "oncran": true
+  },
+  {
+    "package": "BH",
+    "oncran": true
+  },
+  {
+    "package": "RApiDatetime",
+    "oncran": false
+  },
+  {
+    "package": "RApiSerialize",
+    "oncran": false
+  },
+  {
+    "package": "RDieHarder",
+    "oncran": true
+  },
+  {
+    "package": "RInside",
+    "oncran": true
+  },
+  {
+    "package": "RProtoBuf",
+    "oncran": true
+  },
+  {
+    "package": "RPushbullet",
+    "oncran": false
+  },
+  {
+    "package": "RQuantLib",
+    "oncran": true
+  },
+  {
+    "package": "RVowpalWabbit",
+    "oncran": true
+  },
+  {
+    "package": "Rblpapi",
+    "oncran": true
+  },
+  {
+    "package": "Rcpp",
+    "oncran": true
+  },
+  {
+    "package": "RcppAPT",
+    "oncran": true
+  },
+  {
+    "package": "RcppAnnoy",
+    "oncran": false
+  },
+  {
+    "package": "RcppArmadillo",
+    "oncran": true
+  },
+  {
+    "package": "RcppAsioExample",
+    "oncran": false
+  },
+  {
+    "package": "RcppBDT",
+    "oncran": false
+  },
+  {
+    "package": "RcppBenchmark",
+    "oncran": false
+  },
+  {
+    "package": "RcppCCTZ",
+    "oncran": true
+  },
+  {
+    "package": "RcppCNPy",
+    "oncran": true
+  },
+  {
+    "package": "RcppClassic",
+    "oncran": true
+  },
+  {
+    "package": "RcppClassicExamples",
+    "oncran": false
+  },
+  {
+    "package": "RcppDE",
+    "oncran": false
+  },
+  {
+    "package": "RcppDate",
+    "oncran": true
+  },
+  {
+    "package": "RcppEigen",
+    "oncran": true
+  },
+  {
+    "package": "RcppExamples",
+    "oncran": true
+  },
+  {
+    "package": "RcppFastFloat",
+    "oncran": true
+  },
+  {
+    "package": "RcppGSL",
+    "oncran": false
+  },
+  {
+    "package": "RcppGeiger",
+    "oncran": false
+  },
+  {
+    "package": "RcppGetconf",
+    "oncran": true
+  },
+  {
+    "package": "RcppHyperDual",
+    "oncran": false
+  },
+  {
+    "package": "RcppIconvExample",
+    "oncran": false
+  },
+  {
+    "package": "RcppKalman",
+    "oncran": false
+  },
+  {
+    "package": "RcppL1TF",
+    "oncran": false
+  },
+  {
+    "package": "RcppLongLong",
+    "oncran": false
+  },
+  {
+    "package": "RcppMsgPack",
+    "oncran": true
+  },
+  {
+    "package": "RcppNLoptExample",
+    "oncran": false
+  },
+  {
+    "package": "RcppQuantuccia",
+    "oncran": false
+  },
+  {
+    "package": "RcppRedis",
+    "oncran": false
+  },
+  {
+    "package": "RcppSMC",
+    "oncran": false
+  },
+  {
+    "package": "RcppSimdJson",
+    "oncran": true
+  },
+  {
+    "package": "RcppSpdlog",
+    "oncran": true
+  },
+  {
+    "package": "RcppStreams",
+    "oncran": true
+  },
+  {
+    "package": "RcppTOML",
+    "oncran": true
+  },
+  {
+    "package": "RcppUTS",
+    "oncran": false
+  },
+  {
+    "package": "RcppXts",
+    "oncran": false
+  },
+  {
+    "package": "RcppZiggurat",
+    "oncran": false
+  },
+  {
+    "package": "anytime",
+    "oncran": true
+  },
+  {
+    "package": "bbb",
+    "oncran": false
+  },
+  {
+    "package": "binb",
+    "oncran": true
+  },
+  {
+    "package": "corels",
+    "oncran": false
+  },
+  {
+    "package": "dang",
+    "oncran": true
+  },
+  {
+    "package": "digest",
+    "oncran": true
+  },
+  {
+    "package": "drat",
+    "oncran": true
+  },
+  {
+    "package": "gaussfacts",
+    "oncran": true
+  },
+  {
+    "package": "gcbd",
+    "oncran": false
+  },
+  {
+    "package": "gettz",
+    "oncran": true
+  },
+  {
+    "package": "gunsales",
+    "oncran": false
+  },
+  {
+    "package": "inline",
+    "oncran": true
+  },
+  {
+    "package": "linl",
+    "oncran": true
+  },
+  {
+    "package": "littler",
+    "oncran": true
+  },
+  {
+    "package": "nanotime",
+    "oncran": false
+  },
+  {
+    "package": "pinp",
+    "oncran": true
+  },
+  {
+    "package": "pkgKitten",
+    "oncran": false
+  },
+  {
+    "package": "prrd",
+    "oncran": false
+  },
+  {
+    "package": "random",
+    "oncran": false
+  },
+  {
+    "package": "rfoaas",
+    "oncran": true
+  },
+  {
+    "package": "rmsfact",
+    "oncran": false
+  },
+  {
+    "package": "sanitizers",
+    "oncran": false
+  },
+  {
+    "package": "td",
+    "oncran": false
+  },
+  {
+    "package": "tidyCpp",
+    "oncran": false
+  },
+  {
+    "package": "tint",
+    "oncran": true
+  },
+  {
+    "package": "ttdo",
+    "oncran": false
+  },
+  {
+    "package": "x13binary",
+    "oncran": true
+  }
+]

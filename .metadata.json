@@ -60,16 +60,14 @@
     "oncran": true
   },
   {
-    "package": "RcppAsioExample",
-    "oncran": false
+    "package": "RcppAsioExample"
   },
   {
     "package": "RcppBDT",
     "oncran": false
   },
   {
-    "package": "RcppBenchmark",
-    "oncran": false
+    "package": "RcppBenchmark"
   },
   {
     "package": "RcppCCTZ",
@@ -112,32 +110,26 @@
     "oncran": false
   },
   {
-    "package": "RcppGeiger",
-    "oncran": false
+    "package": "RcppGeiger"
   },
   {
     "package": "RcppGetconf",
     "oncran": true
   },
   {
-    "package": "RcppHyperDual",
-    "oncran": false
+    "package": "RcppHyperDual"
   },
   {
-    "package": "RcppIconvExample",
-    "oncran": false
+    "package": "RcppIconvExample"
   },
   {
-    "package": "RcppKalman",
-    "oncran": false
+    "package": "RcppKalman"
   },
   {
-    "package": "RcppL1TF",
-    "oncran": false
+    "package": "RcppL1TF"
   },
   {
-    "package": "RcppLongLong",
-    "oncran": false
+    "package": "RcppLongLong"
   },
   {
     "package": "RcppMsgPack",
@@ -176,8 +168,7 @@
     "oncran": true
   },
   {
-    "package": "RcppUTS",
-    "oncran": false
+    "package": "RcppUTS"
   },
   {
     "package": "RcppXts",
@@ -192,8 +183,7 @@
     "oncran": true
   },
   {
-    "package": "bbb",
-    "oncran": false
+    "package": "bbb"
   },
   {
     "package": "binb",

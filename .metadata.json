@@ -168,6 +168,9 @@
     "oncran": true
   },
   {
+    "package": "RcppTomlPlusPlus"
+  },
+  {
     "package": "RcppUTS"
   },
   {

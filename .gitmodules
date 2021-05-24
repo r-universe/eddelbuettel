@@ -223,6 +223,11 @@
 	url = https://github.com/eddelbuettel/rcpptoml
 	shallow = true
 	registered = true
+[submodule "RcppTomlPlusPlus"]
+	path = RcppTomlPlusPlus
+	url = https://github.com/eddelbuettel/bbb
+	shallow = true
+	registered = true
 [submodule "RcppUTS"]
 	path = RcppUTS
 	url = https://github.com/eddelbuettel/rcpputs

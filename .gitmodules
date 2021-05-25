@@ -225,7 +225,7 @@
 	registered = true
 [submodule "RcppTomlPlusPlus"]
 	path = RcppTomlPlusPlus
-	url = https://github.com/eddelbuettel/bbb
+	url = https://github.com/eddelbuettel/rcpptomlplusplus
 	shallow = true
 	registered = true
 [submodule "RcppUTS"]
@@ -256,6 +256,11 @@
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
+	shallow = true
+	registered = true
+[submodule "chshli"]
+	path = chshli
+	url = https://github.com/eddelbuettel/chshli
 	shallow = true
 	registered = true
 [submodule "corels"]

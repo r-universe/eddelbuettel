@@ -273,7 +273,7 @@
   },
   {
     "package": "td",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tidyCpp",

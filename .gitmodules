@@ -258,6 +258,11 @@
 	url = https://github.com/eddelbuettel/binb
 	shallow = true
 	registered = true
+[submodule "ccptm"]
+	path = ccptm
+	url = https://github.com/eddelbuettel/cook-county-tax-model
+	shallow = true
+	registered = true
 [submodule "chshli"]
 	path = chshli
 	url = https://github.com/eddelbuettel/chshli
@@ -266,6 +271,11 @@
 [submodule "corels"]
 	path = corels
 	url = https://github.com/corels/rcppcorels
+	shallow = true
+	registered = true
+[submodule "curse"]
+	path = curse
+	url = https://github.com/eddelbuettel/curse
 	shallow = true
 	registered = true
 [submodule "dang"]

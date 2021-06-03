@@ -193,11 +193,17 @@
     "oncran": true
   },
   {
+    "package": "ccptm"
+  },
+  {
     "package": "chshli"
   },
   {
     "package": "corels",
     "oncran": false
+  },
+  {
+    "package": "curse"
   },
   {
     "package": "dang",

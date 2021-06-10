@@ -293,6 +293,11 @@
 	url = https://github.com/eddelbuettel/drat
 	shallow = true
 	registered = true
+[submodule "earthmovdist"]
+	path = earthmovdist
+	url = https://github.com/eddelbuettel/earthmovdist
+	shallow = true
+	registered = true
 [submodule "gaussfacts"]
 	path = gaussfacts
 	url = https://github.com/eddelbuettel/gaussfacts
@@ -326,6 +331,11 @@
 [submodule "littler"]
 	path = littler
 	url = https://github.com/eddelbuettel/littler
+	shallow = true
+	registered = true
+[submodule "lwplot"]
+	path = lwplot
+	url = https://github.com/eddelbuettel/lwplot
 	shallow = true
 	registered = true
 [submodule "nanotime"]

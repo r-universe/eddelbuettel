@@ -218,6 +218,9 @@
     "oncran": true
   },
   {
+    "package": "earthmovdist"
+  },
+  {
     "package": "gaussfacts",
     "oncran": true
   },
@@ -244,6 +247,9 @@
   {
     "package": "littler",
     "oncran": true
+  },
+  {
+    "package": "lwplot"
   },
   {
     "package": "nanotime",

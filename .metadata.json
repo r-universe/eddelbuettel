@@ -252,6 +252,9 @@
     "package": "lwplot"
   },
   {
+    "package": "minm"
+  },
+  {
     "package": "nanotime",
     "oncran": false
   },
@@ -262,6 +265,9 @@
   {
     "package": "pkgKitten",
     "oncran": false
+  },
+  {
+    "package": "plr"
   },
   {
     "package": "prrd",

@@ -338,6 +338,11 @@
 	url = https://github.com/eddelbuettel/lwplot
 	shallow = true
 	registered = true
+[submodule "minm"]
+	path = minm
+	url = https://github.com/eddelbuettel/minm
+	shallow = true
+	registered = true
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
@@ -351,6 +356,11 @@
 [submodule "pkgKitten"]
 	path = pkgKitten
 	url = https://github.com/eddelbuettel/pkgkitten
+	shallow = true
+	registered = true
+[submodule "plr"]
+	path = plr
+	url = https://github.com/stat447/plr
 	shallow = true
 	registered = true
 [submodule "prrd"]

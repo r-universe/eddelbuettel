@@ -408,6 +408,11 @@
 	url = https://github.com/eddelbuettel/ttdo
 	shallow = true
 	registered = true
+[submodule "winsorize"]
+	path = winsorize
+	url = https://github.com/eddelbuettel/winsorize
+	shallow = true
+	registered = true
 [submodule "x13binary"]
 	path = x13binary
 	url = https://github.com/x13org/x13binary

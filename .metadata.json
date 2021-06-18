@@ -270,6 +270,9 @@
     "package": "plr"
   },
   {
+    "package": "plr"
+  },
+  {
     "package": "prrd",
     "oncran": false
   },
@@ -304,6 +307,9 @@
   {
     "package": "ttdo",
     "oncran": false
+  },
+  {
+    "package": "winsorize"
   },
   {
     "package": "x13binary",

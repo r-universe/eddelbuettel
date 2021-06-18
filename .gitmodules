@@ -383,6 +383,11 @@
 	url = https://github.com/eddelbuettel/rmsfact
 	shallow = true
 	registered = true
+[submodule "safy"]
+	path = safy
+	url = https://github.com/eddelbuettel/safy
+	shallow = true
+	registered = true
 [submodule "sanitizers"]
 	path = sanitizers
 	url = https://github.com/eddelbuettel/sanitizers

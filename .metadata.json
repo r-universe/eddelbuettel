@@ -289,6 +289,9 @@
     "oncran": false
   },
   {
+    "package": "safy"
+  },
+  {
     "package": "sanitizers",
     "oncran": false
   },

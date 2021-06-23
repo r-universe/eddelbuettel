@@ -107,7 +107,7 @@
   },
   {
     "package": "RcppGSL",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppGeiger"

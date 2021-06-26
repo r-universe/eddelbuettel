@@ -303,11 +303,6 @@
 	url = https://github.com/eddelbuettel/gaussfacts
 	shallow = true
 	registered = true
-[submodule "gcbd"]
-	path = gcbd
-	url = https://github.com/eddelbuettel/gcbd
-	shallow = true
-	registered = true
 [submodule "gettz"]
 	path = gettz
 	url = https://github.com/eddelbuettel/gettz

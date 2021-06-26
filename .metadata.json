@@ -225,10 +225,6 @@
     "oncran": true
   },
   {
-    "package": "gcbd",
-    "oncran": false
-  },
-  {
     "package": "gettz",
     "oncran": true
   },

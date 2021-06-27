@@ -323,11 +323,6 @@
 	url = https://github.com/eddelbuettel/linl
 	shallow = true
 	registered = true
-[submodule "littler"]
-	path = littler
-	url = https://github.com/eddelbuettel/littler
-	shallow = true
-	registered = true
 [submodule "lwplot"]
 	path = lwplot
 	url = https://github.com/eddelbuettel/lwplot

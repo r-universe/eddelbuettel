@@ -145,7 +145,7 @@
   },
   {
     "package": "RcppRedis",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppSMC",

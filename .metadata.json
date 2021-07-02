@@ -241,6 +241,10 @@
     "oncran": true
   },
   {
+    "package": "littler",
+    "oncran": true
+  },
+  {
     "package": "lwplot"
   },
   {

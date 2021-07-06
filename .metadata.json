@@ -302,7 +302,7 @@
   },
   {
     "package": "ttdo",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "winsorize"

@@ -260,7 +260,7 @@
   },
   {
     "package": "pkgKitten",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "plr"

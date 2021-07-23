@@ -133,6 +133,11 @@
 	url = https://github.com/eddelbuettel/rcppexamples
 	shallow = true
 	registered = true
+[submodule "RcppFarmHash"]
+	path = RcppFarmHash
+	url = https://github.com/eddelbuettel/rcppfarmhash
+	shallow = true
+	registered = true
 [submodule "RcppFastFloat"]
 	path = RcppFastFloat
 	url = https://github.com/eddelbuettel/rcppfastfloat

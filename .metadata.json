@@ -102,6 +102,9 @@
     "oncran": true
   },
   {
+    "package": "RcppFarmHash"
+  },
+  {
     "package": "RcppFastFloat",
     "oncran": true
   },

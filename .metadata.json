@@ -103,7 +103,7 @@
   },
   {
     "package": "RcppFarmHash",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppFastFloat",

@@ -53,7 +53,7 @@
   },
   {
     "package": "RcppAnnoy",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppArmadillo",

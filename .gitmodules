@@ -323,6 +323,11 @@
 	url = https://github.com/eddelbuettel/inline
 	shallow = true
 	registered = true
+[submodule "ldasb"]
+	path = ldasb
+	url = https://github.com/eddelbuettel/ldlasb
+	shallow = true
+	registered = true
 [submodule "linl"]
 	path = linl
 	url = https://github.com/eddelbuettel/linl

@@ -9,7 +9,7 @@
   },
   {
     "package": "RApiDatetime",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RApiSerialize",

@@ -64,7 +64,7 @@
   },
   {
     "package": "RcppBDT",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppBenchmark"

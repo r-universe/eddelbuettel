@@ -173,11 +173,6 @@
 	url = https://github.com/eddelbuettel/rcppkalman
 	shallow = true
 	registered = true
-[submodule "RcppL1TF"]
-	path = RcppL1TF
-	url = https://github.com/eddelbuettel/rcppl1tf
-	shallow = true
-	registered = true
 [submodule "RcppLongLong"]
 	path = RcppLongLong
 	url = https://github.com/eddelbuettel/rcpplonglong

@@ -130,9 +130,6 @@
     "package": "RcppKalman"
   },
   {
-    "package": "RcppL1TF"
-  },
-  {
     "package": "RcppLongLong"
   },
   {

@@ -200,7 +200,7 @@
 	registered = true
 [submodule "RcppSMC"]
 	path = RcppSMC
-	url = https://github.com/eddelbuettel/rcppsmc
+	url = https://github.com/rcppsmc/rcppsmc
 	shallow = true
 	registered = true
 [submodule "RcppSimdJson"]

@@ -298,7 +298,7 @@
   },
   {
     "package": "tidyCpp",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tint",

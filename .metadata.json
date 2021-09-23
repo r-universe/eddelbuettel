@@ -271,7 +271,7 @@
   },
   {
     "package": "prrd",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "random",

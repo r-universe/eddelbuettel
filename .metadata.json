@@ -201,7 +201,7 @@
   },
   {
     "package": "corels",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "curse"

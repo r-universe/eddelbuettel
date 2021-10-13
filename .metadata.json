@@ -142,7 +142,7 @@
   },
   {
     "package": "RcppQuantuccia",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppRedis",

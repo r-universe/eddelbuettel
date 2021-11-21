@@ -368,6 +368,11 @@
 	url = https://github.com/eddelbuettel/prrd
 	shallow = true
 	registered = true
+[submodule "qlcal"]
+	path = qlcal
+	url = https://github.com/qlcal/qlcal-r
+	shallow = true
+	registered = true
 [submodule "random"]
 	path = random
 	url = https://github.com/eddelbuettel/random

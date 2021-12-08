@@ -275,7 +275,7 @@
   },
   {
     "package": "qlcal",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "random",

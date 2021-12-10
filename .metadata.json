@@ -44,19 +44,11 @@
     "oncran": true
   },
   {
-    "package": "Rcpp",
-    "oncran": true
-  },
-  {
     "package": "RcppAPT",
     "oncran": true
   },
   {
     "package": "RcppAnnoy",
-    "oncran": true
-  },
-  {
-    "package": "RcppArmadillo",
     "oncran": true
   },
   {
@@ -91,10 +83,6 @@
   },
   {
     "package": "RcppDate",
-    "oncran": true
-  },
-  {
-    "package": "RcppEigen",
     "oncran": true
   },
   {

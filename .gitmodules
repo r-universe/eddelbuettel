@@ -58,11 +58,6 @@
 	url = https://github.com/Rblp/Rblpapi
 	shallow = true
 	registered = true
-[submodule "Rcpp"]
-	path = Rcpp
-	url = https://github.com/RcppCore/Rcpp
-	shallow = true
-	registered = true
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/eddelbuettel/rcppapt
@@ -71,11 +66,6 @@
 [submodule "RcppAnnoy"]
 	path = RcppAnnoy
 	url = https://github.com/eddelbuettel/rcppannoy
-	shallow = true
-	registered = true
-[submodule "RcppArmadillo"]
-	path = RcppArmadillo
-	url = https://github.com/RcppCore/RcppArmadillo
 	shallow = true
 	registered = true
 [submodule "RcppAsioExample"]
@@ -121,11 +111,6 @@
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
-	shallow = true
-	registered = true
-[submodule "RcppEigen"]
-	path = RcppEigen
-	url = https://github.com/RcppCore/RcppEigen
 	shallow = true
 	registered = true
 [submodule "RcppExamples"]

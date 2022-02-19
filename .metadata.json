@@ -247,6 +247,9 @@
     "oncran": true
   },
   {
+    "package": "narrow"
+  },
+  {
     "package": "pinp",
     "oncran": true
   },

@@ -333,6 +333,11 @@
 	url = https://github.com/eddelbuettel/nanotime
 	shallow = true
 	registered = true
+[submodule "narrow"]
+	path = narrow
+	url = https://github.com/eddelbuettel/narrow
+	shallow = true
+	registered = true
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp

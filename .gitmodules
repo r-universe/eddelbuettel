@@ -63,6 +63,11 @@
 	url = https://github.com/eddelbuettel/rcppapt
 	shallow = true
 	registered = true
+[submodule "rcpparrow"]
+	path = rcpparrow
+	url = https://github.com/eddelbuettel/rcpparrow
+	shallow = true
+	registered = true
 [submodule "RcppAnnoy"]
 	path = RcppAnnoy
 	url = https://github.com/eddelbuettel/rcppannoy

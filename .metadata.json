@@ -48,6 +48,9 @@
     "oncran": true
   },
   {
+    "package": "rcpparrow"
+  },
+  {
     "package": "RcppAnnoy",
     "oncran": true
   },

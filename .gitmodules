@@ -273,6 +273,11 @@
 	url = https://github.com/eddelbuettel/dang
 	shallow = true
 	registered = true
+[submodule "delaunay"]
+	path = delaunay
+	url = https://github.com/eddelbuettel/delaunay
+	shallow = true
+	registered = true
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest

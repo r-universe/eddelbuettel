@@ -202,9 +202,6 @@
     "oncran": true
   },
   {
-    "package": "delaunay"
-  },
-  {
     "package": "digest",
     "oncran": true
   },

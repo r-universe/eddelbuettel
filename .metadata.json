@@ -40,10 +40,6 @@
     "oncran": true
   },
   {
-    "package": "Rblpapi",
-    "oncran": true
-  },
-  {
     "package": "RcppAPT",
     "oncran": true
   },
@@ -140,10 +136,6 @@
     "oncran": true
   },
   {
-    "package": "RcppSMC",
-    "oncran": true
-  },
-  {
     "package": "RcppSimdJson",
     "oncran": true
   },
@@ -189,10 +181,6 @@
   },
   {
     "package": "chshli"
-  },
-  {
-    "package": "corels",
-    "oncran": true
   },
   {
     "package": "curse"
@@ -265,10 +253,6 @@
   },
   {
     "package": "prrd",
-    "oncran": true
-  },
-  {
-    "package": "qlcal",
     "oncran": true
   },
   {

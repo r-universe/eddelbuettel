@@ -53,11 +53,6 @@
 	url = https://github.com/eddelbuettel/rvowpalwabbit
 	shallow = true
 	registered = true
-[submodule "Rblpapi"]
-	path = Rblpapi
-	url = https://github.com/Rblp/Rblpapi
-	shallow = true
-	registered = true
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/eddelbuettel/rcppapt
@@ -188,11 +183,6 @@
 	url = https://github.com/eddelbuettel/rcppredis
 	shallow = true
 	registered = true
-[submodule "RcppSMC"]
-	path = RcppSMC
-	url = https://github.com/rcppsmc/rcppsmc
-	shallow = true
-	registered = true
 [submodule "RcppSimdJson"]
 	path = RcppSimdJson
 	url = https://github.com/eddelbuettel/rcppsimdjson
@@ -256,11 +246,6 @@
 [submodule "chshli"]
 	path = chshli
 	url = https://github.com/eddelbuettel/chshli
-	shallow = true
-	registered = true
-[submodule "corels"]
-	path = corels
-	url = https://github.com/corels/rcppcorels
 	shallow = true
 	registered = true
 [submodule "curse"]
@@ -361,11 +346,6 @@
 [submodule "prrd"]
 	path = prrd
 	url = https://github.com/eddelbuettel/prrd
-	shallow = true
-	registered = true
-[submodule "qlcal"]
-	path = qlcal
-	url = https://github.com/qlcal/qlcal-r
 	shallow = true
 	registered = true
 [submodule "random"]

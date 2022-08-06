@@ -159,7 +159,7 @@
   },
   {
     "package": "RcppXts",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppZiggurat",

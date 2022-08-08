@@ -13,7 +13,7 @@
   },
   {
     "package": "RApiSerialize",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RDieHarder",

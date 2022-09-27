@@ -292,9 +292,5 @@
   },
   {
     "package": "winsorize"
-  },
-  {
-    "package": "x13binary",
-    "oncran": true
   }
 ]

@@ -3,6 +3,11 @@
 	url = https://github.com/eddelbuettel/universe
 	shallow = true
 	branch = HEAD
+[submodule "arch"]
+	path = arch
+	url = https://github.com/eddelbuettel/arch
+	shallow = true
+	registered = true
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/eddelbuettel/asioheaders

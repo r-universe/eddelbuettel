@@ -274,6 +274,10 @@
     "package": "safy"
   },
   {
+    "package": "spdl",
+    "oncran": false
+  },
+  {
     "package": "sanitizers",
     "oncran": false
   },

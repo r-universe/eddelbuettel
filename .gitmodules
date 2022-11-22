@@ -373,6 +373,11 @@
 	url = https://github.com/eddelbuettel/safy
 	shallow = true
 	registered = true
+[submodule "spdl"]
+	path = spdl
+	url = https://github.com/eddelbuettel/spdl
+	shallow = true
+	registered = true
 [submodule "sanitizers"]
 	path = sanitizers
 	url = https://github.com/eddelbuettel/sanitizers

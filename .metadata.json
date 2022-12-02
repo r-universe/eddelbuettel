@@ -275,7 +275,7 @@
   },
   {
     "package": "spdl",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "sanitizers",

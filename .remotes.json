@@ -1,0 +1,8 @@
+[
+  {
+    "package": "RcppSpdlog",
+    "url": "https://github.com/eddelbuettel/rcppspdlog",
+    "via": ["spdl"],
+    "from": "spdl"
+  }
+]

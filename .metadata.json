@@ -81,7 +81,7 @@
   },
   {
     "package": "RcppDE",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppDate",

@@ -299,5 +299,12 @@
   },
   {
     "package": "winsorize"
+  },
+  {
+    "package": "tiledb",
+    "oncran": true
+  },
+  {
+    "package": "tiledbsoma"
   }
 ]

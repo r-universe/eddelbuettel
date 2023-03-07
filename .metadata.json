@@ -97,7 +97,7 @@
   },
   {
     "package": "RcppFastAD",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppFastFloat",

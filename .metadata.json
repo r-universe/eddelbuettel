@@ -32,7 +32,7 @@
   },
   {
     "package": "RPushbullet",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RQuantLib",
@@ -77,7 +77,7 @@
   },
   {
     "package": "RcppClassicExamples",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppDE",
@@ -132,7 +132,7 @@
   },
   {
     "package": "RcppNLoptExample",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "RcppQuantuccia",
@@ -170,7 +170,7 @@
   },
   {
     "package": "RcppZiggurat",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "anytime",
@@ -264,7 +264,7 @@
   },
   {
     "package": "random",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rfoaas",
@@ -272,7 +272,7 @@
   },
   {
     "package": "rmsfact",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "safy"
@@ -283,7 +283,7 @@
   },
   {
     "package": "sanitizers",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "td",

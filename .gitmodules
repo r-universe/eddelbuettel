@@ -108,6 +108,11 @@
 	url = https://github.com/eddelbuettel/rcppclassicexamples
 	shallow = true
 	registered = true
+[submodule "RcppDA"]
+	path = RcppDA
+	url = https://github.com/eddelbuettel/rcppda
+	shallow = true
+	registered = true
 [submodule "RcppDE"]
 	path = RcppDE
 	url = https://github.com/eddelbuettel/rcppde

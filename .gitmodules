@@ -278,6 +278,11 @@
 	url = https://github.com/eddelbuettel/drat
 	shallow = true
 	registered = true
+[submodule "dtts"]
+	path = dtts
+	url = https://github.com/eddelbuettel/dtts
+	shallow = true
+	registered = true
 [submodule "earthmovdist"]
 	path = earthmovdist
 	url = https://github.com/eddelbuettel/earthmovdist

@@ -48,6 +48,11 @@
 	url = https://github.com/eddelbuettel/rpushbullet
 	shallow = true
 	registered = true
+[submodule "RQuantLib"]
+	path = RQuantLib
+	url = https://github.com/eddelbuettel/rquantlib
+	shallow = true
+	registered = true
 [submodule "RVowpalWabbit"]
 	path = RVowpalWabbit
 	url = https://github.com/eddelbuettel/rvowpalwabbit

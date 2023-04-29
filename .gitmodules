@@ -434,3 +434,8 @@
 	shallow = true
 	subdir = apis/r
 	registered = true
+[submodule "tldbsm"]
+	path = tldbsm
+	url = https://github.com/eddelbuettel/tldbsm
+	shallow = true
+	registered = true

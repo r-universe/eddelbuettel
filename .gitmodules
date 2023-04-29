@@ -430,12 +430,6 @@
 	registered = true
 [submodule "tiledbsoma"]
 	path = tiledbsoma
-	url = https://github.com/single-cell-data/TileDB-SOMA
-	shallow = true
-	subdir = apis/r
-	registered = true
-[submodule "tldbsm"]
-	path = tldbsm
-	url = https://github.com/eddelbuettel/tldbsm
+	url = https://github.com/eddelbuettel/tiledbsoma
 	shallow = true
 	registered = true

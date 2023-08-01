@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/eddelbuettel/universe
 	branch = HEAD
-[submodule "arch"]
-	path = arch
-	url = https://github.com/eddelbuettel/arch
 [submodule "AsioHeaders"]
 	path = AsioHeaders
 	url = https://github.com/eddelbuettel/asioheaders
@@ -38,9 +35,6 @@
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/eddelbuettel/rcppapt
-[submodule "RcppNarrow"]
-	path = RcppNarrow
-	url = https://github.com/eddelbuettel/rcppnarrow
 [submodule "RcppAnnoy"]
 	path = RcppAnnoy
 	url = https://github.com/eddelbuettel/rcppannoy
@@ -113,6 +107,9 @@
 [submodule "RcppNLoptExample"]
 	path = RcppNLoptExample
 	url = https://github.com/eddelbuettel/rcppnloptexample
+[submodule "RcppNarrow"]
+	path = RcppNarrow
+	url = https://github.com/eddelbuettel/rcppnarrow
 [submodule "RcppQuantuccia"]
 	path = RcppQuantuccia
 	url = https://github.com/eddelbuettel/rcppquantuccia
@@ -146,6 +143,9 @@
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
+[submodule "arch"]
+	path = arch
+	url = https://github.com/eddelbuettel/arch
 [submodule "bbb"]
 	path = bbb
 	url = https://github.com/eddelbuettel/bbb
@@ -236,18 +236,22 @@
 [submodule "safy"]
 	path = safy
 	url = https://github.com/eddelbuettel/safy
-[submodule "spdl"]
-	path = spdl
-	url = https://github.com/eddelbuettel/spdl
 [submodule "sanitizers"]
 	path = sanitizers
 	url = https://github.com/eddelbuettel/sanitizers
+[submodule "spdl"]
+	path = spdl
+	url = https://github.com/eddelbuettel/spdl
 [submodule "td"]
 	path = td
 	url = https://github.com/eddelbuettel/td
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/single-cell-data/TileDB-SOMA
+	subdir = apis/r
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
@@ -257,7 +261,3 @@
 [submodule "winsorize"]
 	path = winsorize
 	url = https://github.com/eddelbuettel/winsorize
-[submodule "tiledbsoma"]
-	path = tiledbsoma
-	url = https://github.com/single-cell-data/TileDB-SOMA
-	subdir = apis/r

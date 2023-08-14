@@ -248,6 +248,9 @@
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
+[submodule "tiledb"]
+	path = tiledb
+	url = https://github.com/TileDB-Inc/TileDB-R
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA

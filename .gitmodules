@@ -95,6 +95,9 @@
 [submodule "RcppIconvExample"]
 	path = RcppIconvExample
 	url = https://github.com/eddelbuettel/rcppiconvexample
+[submodule "RcppInt64"]
+	path = RcppInt64
+	url = https://github.com/eddelbuettel/rcppint64
 [submodule "RcppKalman"]
 	path = RcppKalman
 	url = https://github.com/eddelbuettel/rcppkalman

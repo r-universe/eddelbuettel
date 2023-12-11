@@ -258,6 +258,9 @@
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
+[submodule "tinythemes"]
+	path = tinythemes
+	url = https://github.com/eddelbuettel/tinythemes
 [submodule "ttdo"]
 	path = ttdo
 	url = https://github.com/eddelbuettel/ttdo

@@ -158,6 +158,9 @@
 [submodule "chshli"]
 	path = chshli
 	url = https://github.com/eddelbuettel/chshli
+[submodule "ciw"]
+	path = ciw
+	url = https://github.com/eddelbuettel/ciw
 [submodule "crc32c"]
 	path = crc32c
 	url = https://github.com/eddelbuettel/crc32c

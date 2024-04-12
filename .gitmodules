@@ -254,11 +254,6 @@
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
-	branch = 0.25.0
-[submodule "tiledbsoma"]
-	path = tiledbsoma
-	url = https://github.com/single-cell-data/TileDB-SOMA
-	subdir = apis/r
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint

@@ -155,6 +155,11 @@
 [submodule "ccptm"]
 	path = ccptm
 	url = https://github.com/eddelbuettel/cook-county-tax-model
+[submodule "cellxgene.census"]
+	path = cellxgene.census
+	url = https://github.com/chanzuckerberg/cellxgene-census
+	branch = *release
+	subdir = api/r/cellxgene.census
 [submodule "chshli"]
 	path = chshli
 	url = https://github.com/eddelbuettel/chshli
@@ -254,6 +259,10 @@
 [submodule "tiledb"]
 	path = tiledb
 	url = https://github.com/TileDB-Inc/TileDB-R
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/single-cell-data/TileDB-SOMA
+	subdir = apis/r
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint

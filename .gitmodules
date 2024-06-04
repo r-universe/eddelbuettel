@@ -220,6 +220,9 @@
 [submodule "narrow"]
 	path = narrow
 	url = https://github.com/eddelbuettel/narrow
+[submodule "pbmc3k.tiledb"]
+	path = pbmc3k.tiledb
+	url = https://github.com/eddelbuettel/pbmc3k.tiledb
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp

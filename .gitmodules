@@ -143,9 +143,6 @@
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
-[submodule "arch"]
-	path = arch
-	url = https://github.com/eddelbuettel/arch
 [submodule "bbb"]
 	path = bbb
 	url = https://github.com/eddelbuettel/bbb
@@ -212,9 +209,6 @@
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
-[submodule "narrow"]
-	path = narrow
-	url = https://github.com/eddelbuettel/narrow
 [submodule "pbmc3k.tiledb"]
 	path = pbmc3k.tiledb
 	url = https://github.com/eddelbuettel/pbmc3k.tiledb

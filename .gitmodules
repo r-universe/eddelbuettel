@@ -200,9 +200,6 @@
 [submodule "littler"]
 	path = littler
 	url = https://github.com/eddelbuettel/littler
-[submodule "lwplot"]
-	path = lwplot
-	url = https://github.com/eddelbuettel/lwplot
 [submodule "minm"]
 	path = minm
 	url = https://github.com/eddelbuettel/minm

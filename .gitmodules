@@ -101,6 +101,9 @@
 [submodule "RcppLongLong"]
 	path = RcppLongLong
 	url = https://github.com/eddelbuettel/rcpplonglong
+[submodule "RcppMagicEnum"]
+	path = RcppMagicEnum
+	url = https://github.com/eddelbuettel/rcppmagicenum
 [submodule "RcppMsgPack"]
 	path = RcppMsgPack
 	url = https://github.com/eddelbuettel/rcppmsgpack

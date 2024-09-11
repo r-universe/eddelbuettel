@@ -29,10 +29,6 @@
 [submodule "RQuantLib"]
 	path = RQuantLib
 	url = https://github.com/eddelbuettel/rquantlib
-[submodule "Rblpapi"]
-	path = Rblpapi
-	url = https://github.com/Rblp/Rblpapi
-	branch = feature/release_3.24.6.1
 [submodule "RcppAPT"]
 	path = RcppAPT
 	url = https://github.com/eddelbuettel/rcppapt

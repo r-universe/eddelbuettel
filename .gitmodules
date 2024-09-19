@@ -212,9 +212,6 @@
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
-[submodule "pbmc3k.tiledb"]
-	path = pbmc3k.tiledb
-	url = https://github.com/eddelbuettel/pbmc3k.tiledb
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp
@@ -251,9 +248,6 @@
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
-[submodule "tiledb"]
-	path = tiledb
-	url = https://github.com/TileDB-Inc/TileDB-R
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint

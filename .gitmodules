@@ -164,9 +164,6 @@
 [submodule "ciw"]
 	path = ciw
 	url = https://github.com/eddelbuettel/ciw
-[submodule "colorout"]
-	path = colorout
-	url = https://github.com/jalvesaq/colorout
 [submodule "crc32c"]
 	path = crc32c
 	url = https://github.com/eddelbuettel/crc32c

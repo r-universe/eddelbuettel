@@ -209,6 +209,9 @@
 [submodule "minm"]
 	path = minm
 	url = https://github.com/eddelbuettel/minm
+[submodule "naarma"]
+	path = naarma
+	url = https://github.com/eddelbuettel/naarma
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime

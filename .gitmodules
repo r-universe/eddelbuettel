@@ -266,3 +266,6 @@
 [submodule "winsorize"]
 	path = winsorize
 	url = https://github.com/eddelbuettel/winsorize
+[submodule "zigg"]
+	path = zigg
+	url = https://github.com/eddelbuettel/zigg

@@ -137,6 +137,9 @@
 [submodule "RcppUTS"]
 	path = RcppUTS
 	url = https://github.com/eddelbuettel/rcpputs
+[submodule "RcppUUID"]
+	path = RcppUUID
+	url = https://github.com/eddelbuettel/rcppuuid
 [submodule "RcppXts"]
 	path = RcppXts
 	url = https://github.com/eddelbuettel/rcppxts

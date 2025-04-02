@@ -242,6 +242,9 @@
 [submodule "safy"]
 	path = safy
 	url = https://github.com/eddelbuettel/safy
+[submodule "sampletestpackage"]
+	path = sampletestpackage
+	url = https://github.com/eddelbuettel/sampletestpackage
 [submodule "sanitizers"]
 	path = sanitizers
 	url = https://github.com/eddelbuettel/sanitizers

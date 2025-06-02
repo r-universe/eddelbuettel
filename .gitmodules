@@ -179,7 +179,6 @@
 [submodule "digest"]
 	path = digest
 	url = https://github.com/eddelbuettel/digest
-	branch = feature/arm64_warning
 [submodule "drat"]
 	path = drat
 	url = https://github.com/eddelbuettel/drat

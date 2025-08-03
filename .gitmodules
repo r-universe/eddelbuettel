@@ -260,6 +260,9 @@
 [submodule "tint"]
 	path = tint
 	url = https://github.com/eddelbuettel/tint
+[submodule "tinyqueue"]
+	path = tinyqueue
+	url = https://github.com/eddelbuettel/tinyqueue
 [submodule "tinythemes"]
 	path = tinythemes
 	url = https://github.com/eddelbuettel/tinythemes

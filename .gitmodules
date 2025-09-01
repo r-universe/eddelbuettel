@@ -233,6 +233,9 @@
 [submodule "random"]
 	path = random
 	url = https://github.com/eddelbuettel/random
+[submodule "rcppmlpack-examples"]
+	path = rcppmlpack-examples
+	url = https://github.com/eddelbuettel/rcppmlpack-examples
 [submodule "rfoaas"]
 	path = rfoaas
 	url = https://github.com/eddelbuettel/rfoaas

@@ -146,6 +146,9 @@
 [submodule "RcppZiggurat"]
 	path = RcppZiggurat
 	url = https://github.com/eddelbuettel/rcppziggurat
+[submodule "acane"]
+	path = acane
+	url = https://github.com/eddelbuettel/acane
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime

@@ -161,8 +161,8 @@
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
-[submodule "birpr"]
-	path = birpr
+[submodule "birp"]
+	path = birp
 	url = https://github.com/eddelbuettel/birpr
 [submodule "ccptm"]
 	path = ccptm

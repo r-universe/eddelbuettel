@@ -161,6 +161,9 @@
 [submodule "binb"]
 	path = binb
 	url = https://github.com/eddelbuettel/binb
+[submodule "birbr"]
+	path = birbr
+	url = https://github.com/eddelbuettel/birbr
 [submodule "ccptm"]
 	path = ccptm
 	url = https://github.com/eddelbuettel/cook-county-tax-model

@@ -173,6 +173,9 @@
 [submodule "crc32c"]
 	path = crc32c
 	url = https://github.com/eddelbuettel/crc32c
+[submodule "crc32cExample"]
+	path = crc32cExample
+	url = https://github.com/eddelbuettel/crc32c-example
 [submodule "curse"]
 	path = curse
 	url = https://github.com/eddelbuettel/curse

@@ -38,7 +38,7 @@
 [submodule "RcppArmadillo"]
 	path = RcppArmadillo
 	url = https://github.com/RcppCore/RcppArmadillo
-	branch = feature/macos_openmp
+	branch = feature/openmp
 [submodule "RcppAsioExample"]
 	path = RcppAsioExample
 	url = https://github.com/eddelbuettel/rcppasioexample

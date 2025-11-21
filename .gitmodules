@@ -35,10 +35,6 @@
 [submodule "RcppAnnoy"]
 	path = RcppAnnoy
 	url = https://github.com/eddelbuettel/rcppannoy
-[submodule "RcppArmadillo"]
-	path = RcppArmadillo
-	url = https://github.com/RcppCore/RcppArmadillo
-	branch = feature/openmp
 [submodule "RcppAsioExample"]
 	path = RcppAsioExample
 	url = https://github.com/eddelbuettel/rcppasioexample

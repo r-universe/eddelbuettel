@@ -41,6 +41,9 @@
 [submodule "RcppBDT"]
 	path = RcppBDT
 	url = https://github.com/eddelbuettel/rcppbdt
+[submodule "RcppBandicoot"]
+	path = RcppBandicoot
+	url = https://github.com/coatless-rpkg/rcppbandicoot
 [submodule "RcppBenchmark"]
 	path = RcppBenchmark
 	url = https://github.com/eddelbuettel/rcppbenchmark

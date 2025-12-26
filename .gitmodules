@@ -41,9 +41,6 @@
 [submodule "RcppBDT"]
 	path = RcppBDT
 	url = https://github.com/eddelbuettel/rcppbdt
-[submodule "RcppBandicoot"]
-	path = RcppBandicoot
-	url = https://github.com/coatless-rpkg/rcppbandicoot
 [submodule "RcppBenchmark"]
 	path = RcppBenchmark
 	url = https://github.com/eddelbuettel/rcppbenchmark
@@ -68,6 +65,10 @@
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
+[submodule "RcppEigen"]
+	path = RcppEigen
+	url = https://github.com/RcppCore/RcppEigen
+	branch = feature/eigen-5.0.0
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples

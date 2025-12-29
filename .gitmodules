@@ -228,6 +228,10 @@
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
+[submodule "ompdetect"]
+	path = ompdetect
+	url = https://github.com/eddelbuettel/ompdetect
+	branch = local/changes
 [submodule "pinp"]
 	path = pinp
 	url = https://github.com/eddelbuettel/pinp

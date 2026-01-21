@@ -168,6 +168,9 @@
 [submodule "ccptm"]
 	path = ccptm
 	url = https://github.com/eddelbuettel/cook-county-tax-model
+[submodule "chronometre"]
+	path = chronometre
+	url = https://github.com/eddelbuettel/chronometre-r
 [submodule "chshli"]
 	path = chshli
 	url = https://github.com/eddelbuettel/chshli

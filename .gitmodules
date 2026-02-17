@@ -201,9 +201,6 @@
 [submodule "earthmovdist"]
 	path = earthmovdist
 	url = https://github.com/eddelbuettel/earthmovdist
-[submodule "edgemodelr"]
-	path = edgemodelr
-	url = https://github.com/PawanRamaMali/edgemodelr
 [submodule "gaussfacts"]
 	path = gaussfacts
 	url = https://github.com/eddelbuettel/gaussfacts

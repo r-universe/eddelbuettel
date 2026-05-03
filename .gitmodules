@@ -68,7 +68,6 @@
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/RcppCore/RcppEigen
-	branch = feature/eigen-5.0.0
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples

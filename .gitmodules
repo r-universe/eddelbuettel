@@ -65,9 +65,6 @@
 [submodule "RcppDate"]
 	path = RcppDate
 	url = https://github.com/eddelbuettel/rcppdate
-[submodule "RcppEigen"]
-	path = RcppEigen
-	url = https://github.com/RcppCore/RcppEigen
 [submodule "RcppExamples"]
 	path = RcppExamples
 	url = https://github.com/eddelbuettel/rcppexamples

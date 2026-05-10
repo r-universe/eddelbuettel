@@ -125,7 +125,6 @@
 [submodule "RcppSpdlog"]
 	path = RcppSpdlog
 	url = https://github.com/eddelbuettel/rcppspdlog
-	branch = feature/std_format
 [submodule "RcppStreams"]
 	path = RcppStreams
 	url = https://github.com/eddelbuettel/rcppstreams

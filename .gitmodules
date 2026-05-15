@@ -258,6 +258,9 @@
 [submodule "rmsfact"]
 	path = rmsfact
 	url = https://github.com/eddelbuettel/rmsfact
+[submodule "rspdlite"]
+	path = rspdlite
+	url = https://github.com/eddelbuettel/rspdlite
 [submodule "safy"]
 	path = safy
 	url = https://github.com/eddelbuettel/safy

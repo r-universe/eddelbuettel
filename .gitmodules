@@ -285,6 +285,9 @@
 [submodule "tinythemes"]
 	path = tinythemes
 	url = https://github.com/eddelbuettel/tinythemes
+[submodule "tl"]
+	path = tl
+	url = https://github.com/eddelbuettel/tl
 [submodule "ttdo"]
 	path = ttdo
 	url = https://github.com/eddelbuettel/ttdo

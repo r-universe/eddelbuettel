@@ -246,6 +246,9 @@
 [submodule "random"]
 	path = random
 	url = https://github.com/eddelbuettel/random
+[submodule "rbenchmark"]
+	path = rbenchmark
+	url = https://github.com/eddelbuettel/rbenchmark
 [submodule "rcppmlpackexamples"]
 	path = rcppmlpackexamples
 	url = https://github.com/eddelbuettel/rcppmlpack-examples

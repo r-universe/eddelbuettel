@@ -221,6 +221,9 @@
 [submodule "minm"]
 	path = minm
 	url = https://github.com/eddelbuettel/minm
+[submodule "mvalpha"]
+	path = mvalpha
+	url = https://github.com/eddelbuettel/mvalpha
 [submodule "naarma"]
 	path = naarma
 	url = https://github.com/eddelbuettel/naarma

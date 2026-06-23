@@ -224,7 +224,6 @@
 [submodule "mvalpha"]
 	path = mvalpha
 	url = https://github.com/eddelbuettel/mvalpha
-	branch = fix/macos
 [submodule "naarma"]
 	path = naarma
 	url = https://github.com/eddelbuettel/naarma

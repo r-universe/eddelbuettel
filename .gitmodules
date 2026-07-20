@@ -224,6 +224,7 @@
 [submodule "mlpack"]
 	path = mlpack
 	url = https://github.com/eddelbuettel/mlpack-r
+	branch = release_4.8.0-1
 [submodule "myman"]
 	path = myman
 	url = https://github.com/eddelbuettel/myman

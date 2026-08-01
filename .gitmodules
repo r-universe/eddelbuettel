@@ -283,6 +283,9 @@
 [submodule "td"]
 	path = td
 	url = https://github.com/eddelbuettel/td
+[submodule "tellme"]
+	path = tellme
+	url = https://github.com/eddelbuettel/tellme
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
